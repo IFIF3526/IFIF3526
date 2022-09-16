@@ -34,7 +34,7 @@
 
 - Jupyter Notebook, Colab
 
-- PuTTY, FileZilla, MySQL Workbench
+- MySQL Workbench
 
 - Postman
 
