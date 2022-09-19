@@ -12,38 +12,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ifif3526@gmail.com)
 <br/>
 
-## 🔧 Skills
-
-### Backend
-- Python
-
-- Java
-
-### DevOps
-- AWS - EC2, S3, RDS, IAM, LAMBDA, API Gateway, CloudWatch, VPC, Rekognition
-
-- MySQL
-
-### Frontend
-- HTML
-
-- Android
-
-### Tools
-- VS Code, Android Studio
-
-- Jupyter Notebook, Colab
-
-- MySQL Workbench
-
-- Postman
-
-- GitHub
-
-- Slack
-
----
-
 ## 💻 Projects   
 - [🎫 위치기반 공연, 전시 정보 조회 앱서비스](https://github.com/IFIF3526/WhatDoYouWantSee)
 
