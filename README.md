@@ -15,8 +15,9 @@
 ## 💻 Projects   
 - [🎫 위치기반 공연, 전시 정보 조회 앱서비스](https://github.com/IFIF3526/WhatDoYouWantSee)
 
+- [📰 Flask와 Streamlit을 이용한 GPU 데이터 분석 웹 대시보드](https://github.com/IFIF3526/GPUs-Compare)
+  - [🛠 대시보드 바로보기](http://ec2-3-34-135-181.ap-northeast-2.compute.amazonaws.com:8501)
 - - - 
-
 
 ![IFIF3526's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFIF3526&show_icons=true&theme=onedark)
 
