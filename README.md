@@ -15,6 +15,7 @@
 ## 💻 Projects   
 - [🎫 위치기반 공연, 전시 정보 조회 앱서비스](https://github.com/IFIF3526/WhatDoYouWantSee)
 
+---
 
 ![IFIF3526's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFIF3526&show_icons=true&theme=onedark)
 
